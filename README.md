@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen.
+- 👀 I'm studying at UTC2 which is short for University of Transport and Communications
+- 🌱 My major is IT
+- 💞️ I love my family 
+- 📫 I love going to the beach 
+- I want to go to all over VietNam
+
+<!---
+Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot of tea ✨ 
+--->
