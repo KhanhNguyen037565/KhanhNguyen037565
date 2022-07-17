@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
 - 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen.
 - 👀 I'm studying at UTC2 which is short for University of Transport and Communications
 - 🌱 My major is IT
