@@ -25,4 +25,4 @@ Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot
 
 
 
-<p align="center" font-weight="700" > Thanks for visiting ! </p>
+<p align="center" > Thanks for visiting ! </p>
