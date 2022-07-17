@@ -12,11 +12,11 @@
 <h6>- 📫 I love going to the beach </h6>
 <h6>- I want to go to all over VietNam </h6>
   </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen037565)]
+
 <!---
 Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot of tea ✨ 
 --->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen037565&show_icons=true&theme=radical)
 ## Profile Summary
 
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhanhNguyen037565&theme=radical&show_icons=true)
