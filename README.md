@@ -22,3 +22,5 @@ Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot
 ## Profile Summary
 
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhanhNguyen037565&theme=radical&show_icons=true)
+
+## Thanks for visiting !
