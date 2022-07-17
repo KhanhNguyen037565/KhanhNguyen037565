@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhanhNguyen037565&label=Views&color=blue&style=plastic" alt="KhanhNguyen037565" /> </p>
 - 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen.
 - 👀 I'm studying at UTC2 which is short for University of Transport and Communications
 - 🌱 My major is IT
