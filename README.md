@@ -1,4 +1,4 @@
-<p align="center"> <img with="200px" height="auto" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg" alt=""> </p>
+<p align="center"> <img with="200px" height="190px" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg" alt=""> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhanhNguyen037565&label=Views&color=blue&style=plastic" alt="KhanhNguyen037565" /> </p>
 
 
