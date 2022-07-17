@@ -5,12 +5,12 @@
 
 
 <p >
-- 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen. </br>
-- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </br>
-- 🌱 My major is IT </br>
-- 💞️ I love my family </br>
-- 📫 I love going to the beach </br>
-- I want to go to all over VietNam
+<h6>- 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen. </h6>
+<h6>- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>
+<h6>- 🌱 My major is IT </h6>
+<h6>- 💞️ I love my family </h6>
+<h6>- 📫 I love going to the beach </h6>
+<h6>- I want to go to all over VietNam </h6>
   </p>
 
 <!---
