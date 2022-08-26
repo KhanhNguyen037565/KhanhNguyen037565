@@ -3,10 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhanhNguyen037565&label=Views&color=blue&style=plastic" alt="KhanhNguyen037565" /> </p>
 
 
+:+1:  - 👋 Hi, I’m Van Khanh ! :womens:
 
-
-
- - 👋 Hi, I’m Van Khanh
 
 > Besides, I also have nickname is TuongVyNguyen.
 >- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>
