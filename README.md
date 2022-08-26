@@ -84,7 +84,13 @@ Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot
 ## Profile Summary
 
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhanhNguyen037565&theme=radical&show_icons=true)
+<br>
 
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <h3 align="center">"NỮ NHÂN KIÊN CƯỜNG THƯỜNG LÀ TÌNH TRƯỜNG BẠI TƯỚNG"</h3>
+</a>
 
-
+<br>
 <p align="center" > Thanks for visiting ! </p>
