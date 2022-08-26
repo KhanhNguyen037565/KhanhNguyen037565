@@ -5,7 +5,7 @@
 
 
 <p >
-<h6>- 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Tuongvy Nguyen. </h6>
+<h6>- 👋 Hi, I’m Van Khanh. Besides, I also have nickname is Connit. </h6>
 <h6>- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>
 <h6>- 🌱 My major is IT </h6>
 <h6>- 💞️I want to go to all over VietNam </h6>
