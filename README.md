@@ -68,9 +68,6 @@
   <a href="https://www.instagram.com/vankhanh02092002/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VanKhanhNguyen-Instagram" />
   </a>
-  <a href="lethiha08041980@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VanKhanhNguyen-email" />
-  </a>
 </div>
 
 
