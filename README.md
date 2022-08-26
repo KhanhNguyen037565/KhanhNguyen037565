@@ -8,7 +8,7 @@
 >- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>
 >- 🌱 My major is IT </h6>
 
-<sup>- 💞️I want to go to all over VietNam</sup>
+<sup>- 💞️I wanna go to all over VietNam</sup>
   </p>
 <!-- VanKhanhBA -->
 
