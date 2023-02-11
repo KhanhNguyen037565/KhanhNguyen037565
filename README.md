@@ -78,7 +78,7 @@
 ![Hi](https://media2.giphy.com/media/FfBoY4A3gMC9oetfU4/giphy.gif?cid=ecf05e47xi2ygfk3papoa0f6fgp1d2g2v1vtvt4l0odigj1j&rid=giphy.gif&ct=g)
 
 <!---
-Tuongvy Nguyen/Tuongvy Nguyen  ✨ Don't boil the whole ocean just to make a pot of tea ✨ 
+  ✨ Don't boil the whole ocean just to make a pot of tea ✨ 
 --->
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen037565&show_icons=true&theme=radical)
