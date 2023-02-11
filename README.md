@@ -7,7 +7,6 @@
 ## 👋 Hi, I’m Van Khanh ! :womens:
 
 
-> Besides, I also have nickname is TuongVyNguyen.
 >- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>:+1:
 >- 🌱 Languages: English </h6>
 
