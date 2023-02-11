@@ -8,7 +8,7 @@
 
 
 >- 👀 I'm studying at UTC2 which is short for University of Transport and Communications </h6>:+1:
->- 🌱 Languages: English </h6>
+>- 🌱 Language: English </h6>
 
 <sup>- 💞️I wanna go to all over VietNam</sup>
   </p>
